@@ -1,0 +1,10 @@
+#
+#  dubbo:
+#      application:
+#      name: dubbo-provider
+#  registry:
+#      protocol: zookeeper
+#      address: 10.200.4.74:2181
+#  protocol:
+#      name: dubbo
+#      port: 20880
